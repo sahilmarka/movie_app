@@ -1,1 +1,1 @@
-export const message="get into the world of GIT and REACT"
+export const message="get into the world of GIT and REACT JS"
